@@ -1,0 +1,15 @@
+---
+title: "Funding Activities"
+---
+
+# Current Projects
+
+### Enhance analytic scope of BugSigDB
+- **Integration of Microbial Physiologies & Morphologies**
+- **Prediction of Metabolic Functions**
+### Establish next generation of curatedMetagenomicData
+- **Ontology-Based Curation System**
+- **Automated Validation and Standardization**
+---
+
+

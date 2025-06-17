@@ -1,0 +1,40 @@
+---
+title: "Software Links"
+---
+# Tools
+
+| Repository | Description |
+|------------|-------------|
+| [https://waldronlab.github.io/curatedMetagenomicData/](https://waldronlab.github.io/curatedMetagenomicData/) | Curated Metagenomic Data of the Human Microbiome | 
+| [https://waldronlab.github.io/lefser/](https://waldronlab.github.io/lefser/) | R implementation of the LEfSe method | 
+| [https://waldronlab.github.io/curatedMetagenomicDataAnalyses/](https://waldronlab.github.io/curatedMetagenomicDataAnalyses/) | Analyses in R and Python Using curatedMetagenomicData | 
+| [https://waldronlab.github.io/curatedMetagenomicDataCuration/](https://waldronlab.github.io/curatedMetagenomicDataCuration/) | Sample Metadata Curation for curatedMetagenomicData | 
+| [MicrobiomeWorkshop](https://github.com/waldronlab/MicrobiomeWorkshop) | A workshop on microbiome analysis using Bioconductor | 
+| [BugSigDBcuration](https://github.com/waldronlab/BugSigDBcuration) | For documenting issues related to BugSigDB curation. | 
+| [https://waldronlab.github.io/HMP16SData/](https://waldronlab.github.io/HMP16SData/) | 16S rRNA Sequencing Data from the Human Microbiome Project | 
+| [curatedMetagenomicsNextflow](https://github.com/seandavi/curatedMetagenomicsNextflow) | Curated Metagenomics Data Nextflow workflows | 
+| [BugSigDB](https://github.com/waldronlab/BugSigDB) | A microbial signatures database | 
+| [https://waldronlab.github.io/bugSigSimple/](https://waldronlab.github.io/bugSigSimple/) | Simple exploratory analysis of curated microbe signatures | 
+| [curatedMetagenomicDataTerminal](https://github.com/waldronlab/curatedMetagenomicDataTerminal) | A Command-Line Interface for curatedMetagenomicData | 
+| [https://waldronlab.github.io/bugsigdbr/](https://waldronlab.github.io/bugsigdbr/) | R-side access to published microbial signatures from BugSigDB | 
+| [lefserBenchmarking](https://github.com/shbrief/lefserBenchmarking) | Benchmarking examples of lefser against LEfSe and microbiomeMarker | 
+| [curatedMetagenomicDataPipeline](https://github.com/waldronlab/curatedMetagenomicDataPipeline) | The Preprocessing Pipeline for curatedMetagenomicData | 
+| [BugSigDBExports](https://github.com/waldronlab/BugSigDBExports) | BugSigDB data files | 
+| [curatedMetagenomicDataODM](https://github.com/shbrief/curatedMetagenomicDataODM) | Genestack's Open Data Management (ODM) setup for curatedMetagenomicData curation | 
+| [MicrobiomeBenchmarkDataPrep](https://github.com/waldronlab/MicrobiomeBenchmarkDataPrep) | Preparation of datasets for MicrobiomeBenchmarkData | 
+| [bugphyzzExports](https://github.com/waldronlab/bugphyzzExports) | NA | 
+| [https://waldronlab.github.io/BugSigDBStats/](https://waldronlab.github.io/BugSigDBStats/) | BugSigDB Stats and Analysis | 
+| [https://waldronlab.github.io/MicrobiomeBenchmarkDataLefse/](https://waldronlab.github.io/MicrobiomeBenchmarkDataLefse/) | Running lefse with lefse-conda | 
+| [ lefser]( lefser) |  and microbiomeMarker | 
+| [https://waldronlab.github.io/taxPPro/](https://waldronlab.github.io/taxPPro/) | NA | 
+| [https://waldronlab.github.io/bugphyzzAnalyses/](https://waldronlab.github.io/bugphyzzAnalyses/) | Analyses with data and signatures imported from the bugphyzz package. | 
+| [BugSigDBEnrich](https://github.com/waldronlab/BugSigDBEnrich) | A ShinyApp to perform enrichemnt analysis with BugSigDB signatures. | 
+| [taxPProValidation](https://github.com/waldronlab/taxPProValidation) | Code for validation analyses for prediction of annotations in bugphyzz | 
+| [cMDmetaanalysis](https://github.com/waldronlab/cMDmetaanalysis) | Examples of Meta-analysis using curatedMetagenomicData | 
+| [cMDMeta](https://github.com/waldronlab/cMDMeta) | Dashboard for cMD | 
+| [https://waldronlab.github.io/MicrobiomeBenchmarkDataAnalyses/](https://waldronlab.github.io/MicrobiomeBenchmarkDataAnalyses/) | Analyses using the datasets provided by the MicrobiomeBenchmarkData package. | 
+| [nextflow_telemetry](https://github.com/seandavi/nextflow_telemetry) | Python web api for nextflow web callbacks | 
+| [https://waldronlab.github.io/MicrobiomeBenchmarkData/](https://waldronlab.github.io/MicrobiomeBenchmarkData/) | Data for benchmarking in microbiome research. | 
+| [BugSigDBPaper](https://github.com/waldronlab/BugSigDBPaper) | Figures and Tables for the BugSigDB paper | 
+| [ncbitaxon](https://github.com/waldronlab/ncbitaxon) | Hosting the NCBI taxnomy | 
+| [curatedMetagenomicDataShinyApp](https://github.com/waldronlab/curatedMetagenomicDataShinyApp) | ShinyApp for curatedMetagenomicDataCuraiton | 

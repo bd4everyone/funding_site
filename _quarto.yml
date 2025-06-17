@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Microbiome Research  Activities"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Funding"
+        file: funding.qmd
+      - text: "Software"
+        file: software.qmd
+      - text: "About"
+        file: about.qmd
+  page-footer:
+    center: "© 2025 CUNY Waldron Lab"
+  repo-url: https://github.com/YOUR-USERNAME/funding-site
+  repo-actions: [edit, issue]
+format:
+  html:
+    theme: cosmo
+    toc: true
+

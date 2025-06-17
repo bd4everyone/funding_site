@@ -1,0 +1,5 @@
+---
+title: "About Us"
+---
+One aspect of our efforts focuses on enhancing reproducibility and promoting open tools in microbiome science.
+Learn more at [our lab website](https://waldronlab.io/software/)
