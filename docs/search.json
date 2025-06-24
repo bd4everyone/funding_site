@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Funding Portal\nExplore our ongoing microbiome research, projects, and open-source software."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding Activities",
+    "section": "",
+    "text": "Current Projects\n\nEnhance analytic scope of BugSigDB\n\nIntegration of Microbial Physiologies & Morphologies\nPrediction of Metabolic Functions ### Establish next generation of curatedMetagenomicData\nOntology-Based Curation System\nAutomated Validation and Standardization"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "One aspect of our efforts focuses on enhancing reproducibility and promoting open tools in microbiome science. Learn more at our lab website"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software Links",
+    "section": "",
+    "text": "Tools\n\n\n\nRepository\nDescription\n\n\n\n\nhttps://waldronlab.github.io/curatedMetagenomicData/\nCurated Metagenomic Data of the Human Microbiome\n\n\nhttps://waldronlab.github.io/lefser/\nR implementation of the LEfSe method\n\n\nhttps://waldronlab.github.io/curatedMetagenomicDataAnalyses/\nAnalyses in R and Python Using curatedMetagenomicData\n\n\nhttps://waldronlab.github.io/curatedMetagenomicDataCuration/\nSample Metadata Curation for curatedMetagenomicData\n\n\nMicrobiomeWorkshop\nA workshop on microbiome analysis using Bioconductor\n\n\nBugSigDBcuration\nFor documenting issues related to BugSigDB curation.\n\n\nhttps://waldronlab.github.io/HMP16SData/\n16S rRNA Sequencing Data from the Human Microbiome Project\n\n\ncuratedMetagenomicsNextflow\nCurated Metagenomics Data Nextflow workflows\n\n\nBugSigDB\nA microbial signatures database\n\n\nhttps://waldronlab.github.io/bugSigSimple/\nSimple exploratory analysis of curated microbe signatures\n\n\ncuratedMetagenomicDataTerminal\nA Command-Line Interface for curatedMetagenomicData\n\n\nhttps://waldronlab.github.io/bugsigdbr/\nR-side access to published microbial signatures from BugSigDB\n\n\nlefserBenchmarking\nBenchmarking examples of lefser against LEfSe and microbiomeMarker\n\n\ncuratedMetagenomicDataPipeline\nThe Preprocessing Pipeline for curatedMetagenomicData\n\n\nBugSigDBExports\nBugSigDB data files\n\n\ncuratedMetagenomicDataODM\nGenestack’s Open Data Management (ODM) setup for curatedMetagenomicData curation\n\n\nMicrobiomeBenchmarkDataPrep\nPreparation of datasets for MicrobiomeBenchmarkData\n\n\nbugphyzzExports\nNA\n\n\nhttps://waldronlab.github.io/BugSigDBStats/\nBugSigDB Stats and Analysis\n\n\nhttps://waldronlab.github.io/MicrobiomeBenchmarkDataLefse/\nRunning lefse with lefse-conda\n\n\nlefser\nand microbiomeMarker\n\n\nhttps://waldronlab.github.io/taxPPro/\nNA\n\n\nhttps://waldronlab.github.io/bugphyzzAnalyses/\nAnalyses with data and signatures imported from the bugphyzz package.\n\n\nBugSigDBEnrich\nA ShinyApp to perform enrichemnt analysis with BugSigDB signatures.\n\n\ntaxPProValidation\nCode for validation analyses for prediction of annotations in bugphyzz\n\n\ncMDmetaanalysis\nExamples of Meta-analysis using curatedMetagenomicData\n\n\ncMDMeta\nDashboard for cMD\n\n\nhttps://waldronlab.github.io/MicrobiomeBenchmarkDataAnalyses/\nAnalyses using the datasets provided by the MicrobiomeBenchmarkData package.\n\n\nnextflow_telemetry\nPython web api for nextflow web callbacks\n\n\nhttps://waldronlab.github.io/MicrobiomeBenchmarkData/\nData for benchmarking in microbiome research.\n\n\nBugSigDBPaper\nFigures and Tables for the BugSigDB paper\n\n\nncbitaxon\nHosting the NCBI taxnomy\n\n\ncuratedMetagenomicDataShinyApp\nShinyApp for curatedMetagenomicDataCuraiton"
+  }
+]
